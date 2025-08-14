@@ -1,47 +1,47 @@
-# Bloodshell theme for btop
+# Quake theme for btop
 
 # Main background color
-theme[main_bg]="#0A0000"
+theme[main_bg]="#F5F1E8"
 
 # Main text color
-theme[main_fg]="#AA5555"
+theme[main_fg]="#703E3E"
 
 # Title color for boxes
-theme[title]="#CC6666"
+theme[title]="#5A2D2D"
 
 # Highlight color for graphs and selected text
-theme[hi_fg]="#8B0000"
+theme[hi_fg]="#B6603E"
 
 # Color of selected item
-theme[selected_bg]="#3A0A0A"
-theme[selected_fg]="#CC6666"
+theme[selected_bg]="#E8DDD0"
+theme[selected_fg]="#5A2D2D"
 
 # Color of inactive/disabled text
-theme[inactive_fg]="#883333"
+theme[inactive_fg]="#8F4C3D"
 
 # Color of text appearing on top of graphs
-theme[graph_text]="#994444"
+theme[graph_text]="#7A5A4A"
 
 # Background color of the percentage meters
-theme[meter_bg]="#1A0000"
+theme[meter_bg]="#F0EDE0"
 
 # Misc colors for processes box
-theme[proc_misc]="#CD853F"
+theme[proc_misc]="#EF7C3E"
 
 # CPU box outline color
-theme[cpu_box]="#4A0A0A"
+theme[cpu_box]="#D76D3C"
 
 # Memory/disks box outline color
-theme[mem_box]="#4A0A0A"
+theme[mem_box]="#D76D3C"
 
 # Net up/down box outline color
-theme[net_box]="#4A0A0A"
+theme[net_box]="#D76D3C"
 
 # Processes box outline color
-theme[proc_box]="#4A0A0A"
+theme[proc_box]="#D76D3C"
 
 # Box divider line and small boxes line color
-theme[div_line]="#4A0A0A"
+theme[div_line]="#D76D3C"
 
 # Temperature graph colors
 theme[temp_start]="#5C8B5C"
